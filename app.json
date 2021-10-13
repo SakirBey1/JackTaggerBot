@@ -1,6 +1,6 @@
 {
   "name": "Taggerbots",
-  "logo":"https://telegra.ph/file/dfa517fd00b6aca5f7ac9.jpg",
+  "logo":"https://telegra.ph/file/dfa517fd00baca5f7ac9.jpg",
   "description": "Gece Yolcuları tagger bot sıze ucretsız uyelerınızı etıketleyen bı bottur.",
   "env": {
     "TOKEN": {
