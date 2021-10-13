@@ -28,7 +28,7 @@ async def start(event):
   await event.reply("**TaggerBots**, Grup veya kanaldaki neredeyse tüm üyelerden bahsedebilirim Bu tür botlar için Kod Sahibi ile iletişime geçin @SakirBey1 ★\nDaha fazla bilgi için **/help**'i tıklayın.",
                     buttons=(
                       [Button.url('🌟 Beni Bir Gruba Ekle', 'https://t.me/jacktaggerbot?startgroup=a'),
-                      Button.url('📣 Support', 'https://t.me/jackmedyaa'),
+                      Button.url('📣 Support', 'https://t.me/Uchawkeds'),
                       Button.url('💻 Developer', 'https://t.me/SakirBey1'),
                       Button.url('🚀 Sahibim', 'https://t.me/jackdanielssx')]
                     ),
@@ -40,7 +40,7 @@ async def help(event):
   await event.reply(helptext,
                     buttons=(
                       [Button.url('🌟 Beni Bir Gruba Ekle', 'https://t.me/jacktaggerbot?startgroup=a'),
-                       Button.url('📣 Support', 'https://t.me/jackmedyaa'),
+                       Button.url('📣 Support', 'https://t.me/Uchawkeds'),
                        Button.url('💻 Developer', 'https://t.me/SakirBey1'),
                       Button.url('🚀 Sahibim', 'https://t.me/jackdanielssx')]
                     ),
